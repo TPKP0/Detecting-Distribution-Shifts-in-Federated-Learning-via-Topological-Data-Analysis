@@ -43,4 +43,4 @@ The R script requires:
 
 ## Author
 
-Beatriz — MSc Statistics, UCL, with the Alan Turing Institute.
+Candidate number:TPKP0 — MSc Statistics, UCL.
